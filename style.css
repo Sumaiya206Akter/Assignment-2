@@ -1,14 +1,15 @@
-h1{font-size: 50px;}
+h1{font-size: 50px;
+}
 body{
     font-family: 'Jost', sans-serif;
-    margin: 0%x;
+    margin: 0% ;
 }
 .Child_div{
     display: flex;
     margin: 0px;
     align-items: center;
 }
-.name_color {
+.name_color { 
     color:darkorange;
 }
 .size{
